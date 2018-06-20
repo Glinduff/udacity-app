@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_313deca275e368019a817f4124345f4dea75fcbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_246036752deca186bb23785e6c1b3e874f3c2487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/udacityapp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/udacityapp-react-native-vector-icons-unspecified_835563a894a6164b05c0306a9d0b0177fa7e80b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_fe98edba1a8c9e76d8c0650442d2a011584932f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_814439b8510a6c481ba8c39aaee3c8c79bf809ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_87b32943514f1eba917bccf04ad550b260e07f52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_0a6728a2caaab8b9caadd6bc569a2d0880d36cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/udacityapp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/udacityapp-react-native-vector-icons-unspecified_f9edbc9b334306110a7e65b59ed083c7cb6cb375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_a1bc2ce65266dc2b385ea2644ab58a8dad4deedd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_756863fef6d265035d91e109abf191e8b91c600a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_21cdd75daad9e08ad421ffa5565dfd2372564010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_988230d40186aca65b0f8ad856a9ddd12faa1292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_f2a560fbbc4a2ff934cbc17470452af703284b2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b500e144c8192d108c8b022dea89f456e55ed82b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_cae01535c6b73969cdafa2248cb0ba495bd4c9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_12063991571132205ba713fc292b215855b26e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_19dddf5be50f597a89fa2829c9ccf2c7856bb93f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_7f881aaccc83aa7739d7f802ddd8b4cc1c8b8087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2d9169dac1dcf5fb1882d1232f665b59bbda745d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bfd1c3985ccdf564e81c788c45dabace40102226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_45c88b847243580d4f84959537e849ecf2721e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f7dc57c8185da45b66b93a8ad7909bf063e65a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_1266a381f2e3e4ee862021c31236734e0a97b2fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_8c6d3fa63cb2acc23e10670807b1c0f87211b178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_0b99df6b6d17582c840bc1ae4774b6e9c204dfe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_bfd3bd5164b1dfc862810f9e49aa376f19727d82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_f09cac5ce8f77a1a19c3a7beaef136512399dd34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1d5b194c7e28dcb072a6ebdc5f790b37eba534e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_08b6711ca71e7548fc5e837d22d68de92c1c2489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0922f711eb081ddd96a992e66b08946adc78b473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_e5856376aef73e1953ee40076ccee57f43a5edbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_ded353e834d7acceac334539d3158a836adda9df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_92f7db8673116d74b31ae566125ed9c8e8baec5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_33c03ca40f80156fd77d8ba2cbce648df48e68e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_01d84d488e92d59cd024f0dc8ee43e70f5d3a958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_4975d329bc07d2c4c34d1815ef5fa80f4745247c.jar" />
+    </item>
+
+</items>

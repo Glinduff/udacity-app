@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/nicolas/Desktop/udacity-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/nicolas/Desktop/udacity-app/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
