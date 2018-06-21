@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
-  /Users/nicolas/Desktop/udacity-app/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h
+  /Users/nicolas/Documents/GitHub/udacity-app/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.cpp \
+  /Users/nicolas/Documents/GitHub/udacity-app/node_modules/react-native/ReactCommon/jsinspector/InspectorInterfaces.h

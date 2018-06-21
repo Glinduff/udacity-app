@@ -1,9 +1,14 @@
 import React, { Component } from 'react'
-import { View, Text, TouchableOpacity, Slider } from 'react-native'
-import { getMetricMetaInfo, timeToString } from "../utils/helpers";
+import { View, Text, TouchableOpacity } from 'react-native'
+import Ionicons from "react-native-vector-icons/Ionicons";
+import { getMetricMetaInfo, timeToString, getDailyReminderValue } from "../utils/helpers";
 import CustomSlider from "./CustomSlider";
 import CustomSteppers from "./CustomSteppers";
 import DateHeader from "./DateHeader";
+import TextButton from "./TextButton";
+import { submitEntry, removeEntry } from '../utils/api'
+import { connect } from 'react-redux'
+import { addEntry } from "../actions";
 
 
 function SubmitBtn ( {onPress} ) {
@@ -14,7 +19,7 @@ function SubmitBtn ( {onPress} ) {
   )
 }
 
-export default class AddEntry extends Component {
+class AddEntry extends Component {
 
   state = {
     run: 0,
@@ -58,6 +63,10 @@ export default class AddEntry extends Component {
     const key = timeToString()
     const entry = this.state
 
+    this.props.dispatch((addEntry({
+      [key]: entry
+    })))
+
     this.setState(() => ({
       run: 0,
       bike: 0,
@@ -65,11 +74,34 @@ export default class AddEntry extends Component {
       sleep: 0,
       eat: 0
     }))
+
+    submitEntry({key , entry})
+  }
+
+  reset = () => {
+    const key = timeToString()
+
+    this.props.dispatch((addEntry({
+      [key]: getDailyReminderValue()
+    })))
+
+    removeEntry(key)
   }
 
   render() {
     const metaInfo = getMetricMetaInfo()
-
+    if(this.props.alreadyLog){
+      return(
+        <View>
+          <Ionicons
+           name='ios-happy-outline'
+           size={100}
+           />
+          <Text>You already log your information todat</Text>
+          <TextButton onPress={this.state}>Reset</TextButton> 
+        </View>
+      )
+    }
     return (
       <View>
         <DateHeader date={ (new Date()).toDateString() } />
@@ -97,9 +129,18 @@ export default class AddEntry extends Component {
             </View>
           )
         })}
-        <Slider />
         <SubmitBtn onPress={this.submit} />
       </View>
     )
   }
 }
+
+function mapStateToptops (state) {
+  const key = timeToString()
+
+  return {
+    alreadyLog: state[key] && typeof state[key].today === 'undefined'
+  }
+}
+
+export default connect(mapStateToptops)(AddEntry)
