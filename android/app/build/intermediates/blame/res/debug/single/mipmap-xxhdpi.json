@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/nicolas/Documents/GitHub/udacity-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/nicolas/Documents/GitHub/udacity-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/nicolas/Desktop/udacity-app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },

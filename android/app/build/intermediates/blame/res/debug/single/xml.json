@@ -4,6 +4,10 @@
         "source": "/Users/nicolas/Desktop/udacity-app copy/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
     },
     {
+        "merged": "/Users/nicolas/Documents/GitHub/udacity-app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/nicolas/Documents/GitHub/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
+    },
+    {
         "merged": "/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/nicolas/Desktop/udacity-app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/xml/preferences.xml"
     }
