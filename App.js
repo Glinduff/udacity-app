@@ -4,12 +4,13 @@ import { Provider } from "react-redux"
 import { createStore } from "redux"
 import reducer from "./reducers"
 import AddEntry from "./components/AddEntry"
-import History from "./components/History";
-import EntryDetail from "./components/EntryDeatil";
-import { purple, white } from './utils/colors';
-import { createBottomTabNavigator, StackNavigator } from "react-navigation";
-import FontAwesome from "react-native-vector-icons/FontAwesome";
-import Ionicons from "react-native-vector-icons/Ionicons";
+import History from "./components/History"
+import EntryDetail from "./components/EntryDeatil"
+import { purple, white } from './utils/colors'
+import { createBottomTabNavigator, StackNavigator } from "react-navigation"
+import FontAwesome from "react-native-vector-icons/FontAwesome"
+import Ionicons from "react-native-vector-icons/Ionicons"
+import { fadeIn } from 'react-navigation-transitions';
 
 
 function MyStatusBar ({backgroundColor, ...props}){ 
@@ -63,12 +64,39 @@ const MainNavigator = StackNavigator({
   EntryDetail: {
     screen: EntryDetail,
     navigationOptions: {
-       headerTintColor: white,
-       headerStyle: {
+      headerTintColor: white,
+      headerStyle: {
         backgroundColor: purple
-       }
+      }
     }
-  }
+  },
+},{
+  mode: 'modal',
+  navigationOptions: {
+    gesturesEnabled: false,
+  },
+  transitionConfig: () => ({
+    transitionSpec: {
+      duration: 200
+    },
+    screenInterpolator: sceneProps => {
+      const { layout, position, scene } = sceneProps;
+      const { index } = scene;
+
+      const height = layout.initHeight;
+      const translateY = position.interpolate({
+        inputRange: [index - 1, index, index + 1],
+        outputRange: [height, 0, 0],
+      });
+
+      const opacity = position.interpolate({
+        inputRange: [index - 1, index - 0.99, index],
+        outputRange: [0, 1, 1],
+      });
+
+      return { opacity, transform: [{ translateY }] };
+    },
+  }),
 });
 
 export default class App extends React.Component {
